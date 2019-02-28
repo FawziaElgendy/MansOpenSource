@@ -8,7 +8,6 @@ For pateints:help them in taking their medication on it's time and alert them wi
 
 ```
 For doctors:help them in remember last diagnosis of their pateints and organize their appointments.
-
 ```
 
 ## Authors
