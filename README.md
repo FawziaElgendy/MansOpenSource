@@ -4,7 +4,6 @@ This's a system help pateint people and doctor to communicate easier and make th
 
 ```
 For pateints:help them in taking their medication on it's time and alert them with consulting medical appointments.
-
 ```
 
 ```
